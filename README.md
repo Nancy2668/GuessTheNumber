@@ -26,9 +26,8 @@ To run this program, ensure you have the following installed:
 
 ## Installation
 1. Clone the repository:
-                  git clone https://github.com/Nancy2668
-   /guess-the-number-game.git
-                  cd guess-the-number-game
+                  git clone https://github.com/Nancy2668/GuessTheNumber.git
+                   cd guess-the-number-game
 3. COMPILE THE PROGRAM
                     javac GuessTheNumber.java
 4. RUN THE PROGRAM
